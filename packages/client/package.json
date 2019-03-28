@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/core": "10.0.9",
-    "@emotion/styled": "10.0.9",
+    "@emotion/core": "10.0.10",
+    "@emotion/styled": "10.0.10",
     "aws-amplify": "1.1.22",
     "aws-amplify-react": "2.3.2",
     "emotion": "10.0.9",
