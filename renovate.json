@@ -3,5 +3,14 @@
     "config:base"
   ],
   "timezone": "Asia/Tokyo",
-  "schedule": "at any time"
+  "schedule": "at any time",
+  "packageRules": [
+    {
+      "packageNames": [
+        "navi", 
+        "react-navi"
+      ],
+      "groupName": "navi monorepo"
+    }
+  ]
 }
